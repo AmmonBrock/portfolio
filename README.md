@@ -2,8 +2,9 @@
 
 ### Education
 
-- Computer Science, MS @ Brigham Young University
-- Applied and Computational Mathematics, BS @ Brigham Young University
+Brigham Young University
+- Computer Science, MS 
+- Applied and Computational Mathematics, BS
 
 ### Work Experience
 

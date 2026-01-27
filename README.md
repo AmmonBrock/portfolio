@@ -18,7 +18,7 @@ Data Science Intern @ Zions Bancorporation
 - Fine-tuned a transformer to classify bank transaction data into 13 categories with over 80% accuracy
 - Utilized Named Entity Recognition tools to reduced unlabeled pool of transaction data by 90%
 
-Research Assistant @ Brigham Young University: Counseling and Psychological Services
+Research Assistant @ BYU: Counseling and Psychological Services
 - Optimized patient-therapist matching by developing predictive models of improvement scores
 - Used automated machine learning to find a model that improved prediction accuracy by 10%
 - Performed data cleaning, model selection, and model validation on data for over 20,000 entries

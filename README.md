@@ -29,3 +29,12 @@
 
 I trained a custom CLIP (Contrastive Language-Image Pre-training) model on 1.2 million image-caption pairs, achieving performance that exceeds the original CLIP model on multiple benchmarks. The model learns joint embeddings of images and text, enabling powerful semantic understanding and comparison. I also created novel evaluation metrics and applications of the model as detailed in the [technical report](custom_clip_report.pdf).
 
+**Key Achievements**
+- Successful training a large scale (1.2 million training examples) multi-modal model
+- Developed a novel application of the trained model (using a difference vector from 2 captions to sort a dataset of images)
+- Unique evaluation metric that measures the accuracy of the projections onto the semantically defined lines
+
+#### Example Applications
+Sorted facial images from "a very young baby" to "an extremely old man"
+![Age sorting](images/)
+

@@ -36,5 +36,5 @@ I trained a custom CLIP (Contrastive Language-Image Pre-training) model on 1.2 m
 
 #### Example Applications
 Sorted facial images from "a very young baby" to "an extremely old man"
-![Age sorting](images/)
+![Age sorting](images/AgeRanking.png)
 

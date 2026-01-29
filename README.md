@@ -46,5 +46,5 @@ Zero-shot sorting of pictures of myself from "a man that is bored" to "a man hav
 ![Bored to Fun](images/bored_to_fun.png)
 
 **Code**
-Check out the code yourself at [Custom Clip Repository](https://github.com/AmmonBrock/custom-clip.git)
+Check out the code yourself at [Custom Clip Code](https://github.com/AmmonBrock/custom-clip.git)
 

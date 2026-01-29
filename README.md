@@ -35,6 +35,16 @@ I trained a custom CLIP (Contrastive Language-Image Pre-training) model on 1.2 m
 - Unique evaluation metric that measures the accuracy of the projections onto the semantically defined lines
 
 #### Example Applications
-Sorted facial images from "a very young baby" to "an extremely old man"
-![Age sorting](images/AgeRanking.png)
+Zero-shot sorting of facial images from "a very young baby" to "an extremely old man"
+![Age Sorting](images/AgeRanking.png)
+See the [technical report](custom_clip_report.pdf) for detailed information about how we used ground truth ages on a large dataset of faces to measure its accuracy on this task.
+
+Zero-shot sorting of pictures of myself from "a very ugly man" to "an extremely attractive man"
+![Attractiveness Sorting](images/ugly_to_attractive.png)
+
+Zero-shot sorting of pictures of myself from "a man that is bored" to "a man having fun"
+![Bored to Fun](images/bored_to_fun.png)
+
+**Code**
+Check out the code yourself at [Custom Clip Repository](https://github.com/AmmonBrock/custom-clip.git)
 

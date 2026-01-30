@@ -45,6 +45,5 @@ Zero-shot sorting of pictures of myself from "a very ugly man" to "an extremely 
 Zero-shot sorting of pictures of myself from "a man that is bored" to "a man having fun"
 ![Bored to Fun](images/bored_to_fun.png)
 
-**Code**
 Check out the code yourself! [Custom Clip Code](https://github.com/AmmonBrock/custom-clip.git)
 

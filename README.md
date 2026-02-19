@@ -9,6 +9,8 @@ Check out my resume for work experience and education details!
   </a>
 </div>
 
+
+
 ## Featured Projects
 
 ### Custom CLIP Training and Application: Semantic Image Sorting

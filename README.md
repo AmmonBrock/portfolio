@@ -47,3 +47,25 @@ Zero-shot sorting of pictures of myself from "a man that is bored" to "a man hav
 
 Check out the code yourself! [Custom Clip Code](https://github.com/AmmonBrock/custom-clip.git)
 
+
+### Parapal: An LLM-Based Grading Assistant for Teachers
+
+I worked with 2 classmates to create a website that automatically grades student essays according to specified rubrics and common core standards. We built it to autoscale on AWS so it could handle real-world usage demands. Out of respect for co-founders who intend to pursue this project as a business endeavor, I do not include the code. However, I do include a short demo video of the website. Check it out!
+
+
+
+<div align="center">
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1aKSF8OVZsM" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+
+**Key Achievements**
+
+- Deployment of an LLM-based website using the following tools on AWS: S3, CloudFront, Cognito, API Gateway, Lambda, and Bedrock
+
+- Rigorous parsing and validation of LLM responses to ensure correct format
+
+- Cost estimations of deployment architecture and design of a feasible business plan

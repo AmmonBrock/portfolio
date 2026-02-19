@@ -1,8 +1,7 @@
 # Ammon Brock
 **Data Scientist | MS Computer Science | BS Applied Mathematics**
 
- [Check out my resume](march_2026_resume.pdf) for work experience and education details!
-
+<a href="march_2026_resume.pdf" target="_blank" rel="noopener noreferrer">Check out my resume</a> for work experience and education details!
 
 ## Featured Projects
 

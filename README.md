@@ -9,7 +9,7 @@ Check out my resume for work experience and education details!
   </a>
 </div>
 
-
+<br> 
 
 ## Featured Projects
 

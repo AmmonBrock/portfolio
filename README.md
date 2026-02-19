@@ -1,8 +1,7 @@
-# Data Scientist
+# Ammon Brock
+**Data Scientist | MS Computer Science | BS Applied Mathematics**
 
-### About Me
-
-I have a BS in Applied Mathematics (ACME) from Brigham Young University and am finishing up my MS in Computer Science also at BYU. I have made an impact as a quant at a hedge fund, a data science intern at a bank, and a research assistant for BYU's counseling department. Check out my resume for more details!
+ [Check out my resume](march_2026_resume.pdf) for work experience and education details!
 
 
 ## Featured Projects

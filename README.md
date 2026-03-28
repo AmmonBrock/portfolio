@@ -15,7 +15,7 @@ Check out my resume for work experience and education details!
 
 ### Custom CLIP Training and Application: Semantic Image Sorting
 
-I trained a custom CLIP (Contrastive Language-Image Pre-training) model on 1.2 million image-caption pairs, achieving performance that exceeds the original CLIP model on multiple benchmarks. The model learns joint embeddings of images and text, enabling powerful semantic understanding and comparison. I also created novel evaluation metrics and applications of the model as detailed in the [technical report](custom_clip_report.pdf).
+I trained a custom CLIP (Contrastive Language-Image Pre-training) model on 1.2 million image-caption pairs, achieving performance that exceeds the original CLIP model on multiple benchmarks. The model learns joint embeddings of images and text, enabling powerful semantic understanding and comparison. I also created novel evaluation metrics and applications of the model as detailed in the <a href="custom_clip_report.pdf" target="_blank" rel="noopener noreferrer">technical report</a>.
 
 **Key Achievements**
 - Successful training of a large scale (1.2 million training examples) multi-modal model
@@ -25,7 +25,7 @@ I trained a custom CLIP (Contrastive Language-Image Pre-training) model on 1.2 m
 #### Example Applications
 Zero-shot sorting of facial images from "a very young baby" to "an extremely old man"
 ![Age Sorting](images/AgeRanking.png)
-See the [technical report](custom_clip_report.pdf) for detailed information about how we used ground truth ages on a large dataset of faces to measure its accuracy on this task.
+See the <a href="custom_clip_report.pdf" target="_blank" rel="noopener noreferrer">technical report</a> for detailed information about how we used ground truth ages on a large dataset of faces to measure its accuracy on this task.
 
 Zero-shot sorting of pictures of myself from "a very ugly man" to "an extremely attractive man"
 ![Attractiveness Sorting](images/ugly_to_attractive.png)
@@ -33,7 +33,7 @@ Zero-shot sorting of pictures of myself from "a very ugly man" to "an extremely 
 Zero-shot sorting of pictures of myself from "a man that is bored" to "a man having fun"
 ![Bored to Fun](images/bored_to_fun.png)
 
-Check out the code yourself! [Custom Clip Code](https://github.com/AmmonBrock/custom-clip.git)
+Check out the code yourself! <a href="https://github.com/AmmonBrock/custom-clip.git" target="_blank" rel="noopener noreferrer">Custom Clip Code</a>
 
 
 ### Parapal: An LLM-Based Grading Assistant for Teachers
